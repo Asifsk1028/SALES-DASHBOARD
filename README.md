@@ -34,4 +34,4 @@ Tracks product return patterns to improve quality decisions
 
 Reveals customer demographics for personalized campaigns
 
-5. Screen shot of the Dashboard (https://github.com/Asifsk1028/SALES-DASHBOARD/blob/main/Screenshot%202025-05-01%20135951.png)
+5. Screen shot of the Dashboard ![DASHBOARD-PREVIEW](https://github.com/Asifsk1028/SALES-DASHBOARD/blob/main/Screenshot%202025-05-01%20135951.png)
