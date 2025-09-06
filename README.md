@@ -3,6 +3,7 @@
 A Power BI dashboard analyzing sales performance for a bicycle and accessories company
 
 📌 Overview
+
 This interactive dashboard provides actionable insights into sales trends, regional performance, customer behavior, and product analytics for a bike retail business. Built with Power BI using processed Excel data.
 
 📊 Dashboard Features
